@@ -1,0 +1,11 @@
+{
+    "name": "nodejs-web-scraper",
+    "version": "1.0.0",
+    "dependencies": {
+        "axios": "^0.26.0",
+        "cheerio": "^1.0.0-rc.10"
+    },
+    "scripts": {
+        "start": "node src/scraper.js"
+    }
+}
